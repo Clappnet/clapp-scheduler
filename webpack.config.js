@@ -53,7 +53,7 @@ module.exports = {
     static: {
       directory: path.join(__dirname, 'ui/'),
     },
-    host: '127.0.0.1',
+    host: '0.0.0.0',
     port: 3000,
     compress: true,
     proxy: [
