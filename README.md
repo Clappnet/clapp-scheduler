@@ -1,8 +1,8 @@
 # Clappnet Notes
 - 3 services are running on this server: postgresql, scheduler and pgadmin4
 - Postgressql: postgres/postgres
-- Scheduler: http://localhost:8080/ (no auth required)
-- pgadmin4: http://157.245.38.46/pgadmin4/ (ekt@clappnet.com/54321qwert)
+- Scheduler: http://<server-ip>:8080/ (no auth required)
+- pgadmin4: http://<server-ip>/pgadmin4/ (ekt@clappnet.com/54321qwert)
 
 # Scheduler
 
