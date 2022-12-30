@@ -1,3 +1,9 @@
+# Clappnet Notes
+- 3 services are running on this server: postgresql, scheduler and pgadmin4
+- Postgressql: postgres/postgres
+- Scheduler: http://localhost:8080/ (no auth required)
+- pgadmin4: http://157.245.38.46/pgadmin4/ (ekt@clappnet.com/54321qwert)
+
 # Scheduler
 
 [![tests](https://github.com/akornatskyy/scheduler/actions/workflows/tests.yaml/badge.svg)](https://github.com/akornatskyy/scheduler/actions/workflows/tests.yaml) [![Coverage Status](https://coveralls.io/repos/github/akornatskyy/scheduler/badge.svg?branch=master)](https://coveralls.io/github/akornatskyy/scheduler?branch=master)
