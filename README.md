@@ -1,7 +1,11 @@
 # Clappnet Notes
 - 3 services are running on this server: postgresql, scheduler and pgadmin4
 - Postgressql: postgres/postgres
-- Scheduler: http://[server-ip]:8080/ (no auth required)
+- Scheduler: http://[server-ip]:8080/ (no auth required
+- Start with:
+```sh
+go run main.go &
+```
 - pgadmin4: http://[server-ip]/pgadmin4/ (ekt@clapp..../5****q****)
 
 # Scheduler
