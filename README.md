@@ -6,7 +6,15 @@
 ```sh
 go run main.go
 ```
+- Build with:
+```sh
+npm run build
+go build
+go install clapp_scheduler.go # will generate scheduler binary
+./scheduler or scheduler # will execute binary
+```
 - pgadmin4: http://[server-ip]/pgadmin4/ (ekt@clapp..../5****q****)
+- Service (clapp_scheduler_service) [here](https://stackoverflow.com/questions/39348993/run-go-app-by-service)
 
 # Scheduler
 

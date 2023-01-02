@@ -8,7 +8,7 @@
 # Description:       Systemd service for 'scheduler'
 ### END INIT INFO
 
-SCRIPT=/opt/clapp-scheduler/scheduler 
+SCRIPT=/opt/clapp-scheduler/scheduler
 FLAGS="--auth=user:password"
 RUNAS=root
 
